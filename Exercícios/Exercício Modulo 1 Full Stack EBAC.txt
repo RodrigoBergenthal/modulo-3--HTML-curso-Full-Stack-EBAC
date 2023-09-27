@@ -1,0 +1,18 @@
+Fazendo uma pesquisa sobre o assunto, logo descobri que é fundamental para tudo que vemos hoje na web praticamente, como eu achei muito conteúdo, vou resumir em oque é HTML,CSS e JavaScript e depois aonde e feito o emprego deles na nossa internet atual.
+
+HTML, CSS e JavaScript são as três linguagens de programação essenciais para a construção de páginas web. Elas trabalham juntas para criar uma experiência de usuário agradável e interativa.
+
+HTML é a linguagem de marcação que define a estrutura de uma página web. Ela é responsável por especificar os elementos da página, como cabeçalhos, parágrafos, imagens e links.
+
+CSS é a linguagem de estilos que define a aparência de uma página web. Ela é responsável por especificar as cores, fontes, tamanhos, posicionamento e outros aspectos visuais dos elementos da página.
+
+JavaScript é uma linguagem de script que adiciona interatividade a uma página web. Ela é responsável por criar efeitos dinâmicos, como animações, transições e formulários interativos.
+
+A importância do HTML, CSS e JavaScript na construção de páginas web é fundamental. Elas são as ferramentas básicas que permitem aos desenvolvedores web criar sites e aplicações web atraentes e funcionais.
+
+Aqui estão alguns exemplos de como o HTML, CSS e JavaScript são usados na construção de páginas web:
+
+HTML: O HTML é usado para criar a estrutura básica de uma página web. Por exemplo, ele pode ser usado para criar um cabeçalho, um corpo e um rodapé.
+CSS: O CSS é usado para definir a aparência de uma página web. Por exemplo, ele pode ser usado para alterar a cor da fonte, o tamanho da fonte e o posicionamento dos elementos da página.
+JavaScript: O JavaScript é usado para adicionar interatividade a uma página web. Por exemplo, ele pode ser usado para criar animações, transições e formulários interativos.
+Ao aprender essas três linguagens de programação, os desenvolvedores web podem criar páginas web que são mais atraentes, funcionais e interativas.
