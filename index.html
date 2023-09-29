@@ -1,38 +1,26 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>HTML com JS</title>
+    <link rel="stylesheet" href="./main.css" />
 </head>
 <body>
-    <h1> Meu primeiro arquivo HTML</h1>
-    <h2> Minha Tag h2</h2>
-    <h3>Minha Tag h3</h3>
-    <h4>Minha Tag h4</h4>
-    <h5> Minha Tag h5</h5>
-    <h6> Minha Tag h6</h6>
-    <hr/>
-    <p>
-        <b>Lorem</b> <strong>dolor sit amet</strong>  <br />
-        adipisicing elit. <i>Distinctio</i> aperiam necessitatibus deserunt. 
-        inus magni, placeat nulla odio voluptas facere a adipisci <mark>ab amet nemo eaque beatae m</mark>
-        deleniti temporibus repudiandae!
-
-    </p>
-    <a href="https://google.com" title="Ir para o Google"> Ir para o Google</a>
-    <a href="Tel:11333333"> 113333</a>
-    <a href="mailto:rodrigo_bergenthal@live.com"> Entre em contato com esse email</a>
-    <address> Rua teste 13332, n10 - cep: 12345</address>
-    <hr/>
-    <a href="./containers.html"> Ir para página de Containers</a>
-    <hr/>
-    <a href="./Listas.html"> Ir para página de Listas</a>
-    <hr/>
-    <a href="./Tabelas.html"> Ir para página de Tabelas</a>
-    <hr/>
-    <a href="./forms.html"> Ir para página de Formulários</a>
-    <hr/>
-    <a href="./midia.html"> Ir para página de midia</a>
+    <div class="container">
+        <h1>EBAC Banking</h1>
+        <h2>Depósitos</h2>
+        <form id="form-deposito">
+            <input type="text" id="nome-beneficiario" required placeholder="Nome completo do beneficiário" />
+            <input type="number" id="numero-conta" required placeholder="Número da conta" />
+            <input type="number" id="valor-deposito"required placeholder="Valor" />
+            <textarea placeholder="Descrição (opcional)" id=" descrição"></textarea>
+            <button id="btn-depositar" type="submit">Depositar</button>
+        </form>
+    </div>
+    <script src="./main.js"> </script>    
+    
 </body>
+    
 </html>
