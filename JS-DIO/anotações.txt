@@ -1,0 +1,87 @@
+
+let variavel ( pode mudar o valor com variavel = ***)
+let const ( não e possivel mudar o valor informado)
+
+faça um programa para calcular o valor gasto de uma viagem.
+
+você terá 3 variaveis. Sendo elas:
+- 1 - Preço do combustivel;
+- 2 - Valor médio de gasto do carro;
+- 3 - Distancia em KM;
+
+Imprima no console o valor que será gasto de combustivel para realizar esta viagem.
+----------
+
+anotações aula 2
+
+primeira função 
+if (numero === 0){
+    console.log(' O numero é invalido');
+}
+
+# caso nao execute a primeira função
+
+else if (numeroDivisivelPor5) {
+ console.log('Sim');
+}
+else { 
+    console.log('Não');
+}
+
+começa com 
+if
+
+variaveis sao
+Else if
+
+e finaliza com 
+
+=======
+let variavel ( pode mudar o valor com variavel = ***)
+let const ( não e possivel mudar o valor informado)
+
+faça um programa para calcular o valor gasto de uma viagem.
+
+você terá 3 variaveis. Sendo elas:
+- 1 - Preço do combustivel;
+- 2 - Valor médio de gasto do carro;
+- 3 - Distancia em KM;
+
+Imprima no console o valor que será gasto de combustivel para realizar esta viagem.
+----------
+
+anotações aula 2
+
+primeira função 
+if (numero === 0){
+    console.log(' O numero é invalido');
+}
+
+# caso nao execute a primeira função
+
+else if (numeroDivisivelPor5) {
+ console.log('Sim');
+}
+else { 
+    console.log('Não');
+}
+
+começa com 
+if
+
+variaveis sao
+Else if
+
+e finaliza com 
+
+Else
+
+anotações aula 1 listas (arrays)
+const nome = 'Rodrigo Pereira Bergenthal';
+
+
+for (let i = 0; i < nome.length; i++) {
+    const letra = nome[i];
+    console.log(letra)
+    
+}
